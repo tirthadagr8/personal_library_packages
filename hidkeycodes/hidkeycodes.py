@@ -69,6 +69,8 @@ class HIDKeyCodes:
         self.KEY_COMMA = 0x36      # ,
         self.KEY_PERIOD = 0x37     # .
         self.KEY_SLASH = 0x38      # /
+        self.KEY_MOD=0xC4          # %
+        self.KEY_BAR=0xC9          # |
 
         # Function Keys
         self.KEY_F1 = 0x3A
